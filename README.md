@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Alvin Kimuli 👋
 
-<!--
-**LegacyAV/LegacyAV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring computer scientist with a passion for building fun and useful tools. I started out making games on Scratch and I'm currently learning how to develop web applications and solve real-world problems through code.
 
-Here are some ideas to get you started:
+## 🔧 Projects I'm Working On
+- Rebuilding my old Scratch game in JavaScript
+- Creating a personal portfolio website
+- Learning Python and building a chatbot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech I'm Learning
+- HTML, CSS, JavaScript
+- Python
+- Git & GitHub
+
+## 🎮 Fun Fact
+I got into coding by building games — and I still love it!
